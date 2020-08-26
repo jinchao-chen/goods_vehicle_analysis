@@ -18,4 +18,4 @@ It contains information on vehicle kilometres of goods vehicles in the Netherlan
 GDP data: https://data.worldbank.org/country/netherlands
 
 # Report
-A blog post is avaible: Link to the blog post
+A blog post is avaible: [medium post](https://medium.com/@jinchaochen/how-did-road-freight-transport-develop-in-the-netherlands-f42502a48047)
