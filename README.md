@@ -17,7 +17,7 @@ The repository contains one Jupyter notebook used to perform the exploratory dat
 All the data is located in the subfolder ./data. The other folder ./image contains the images used in the medium post. 
 
 # Report
-A blog post is avaible: [medium post](https://medium.com/@jinchaochen/how-did-road-freight-transport-develop-in-the-netherlands-f42502a48047)
+A blog post is avaible, [medium post](https://medium.com/@jinchaochen/how-did-road-freight-transport-develop-in-the-netherlands-f42502a48047)
 
 # Acknowledgements
 Vehicle kilometres is retrieve from Centraal Bureau voor de Statistiek [goods_vehicles_link](https://opendata.cbs.nl/statline/portal.html?_la=en&_catalog=CBS&tableId=84651ENG&_theme=1111)<br/>
