@@ -18,7 +18,7 @@ In this notebook I used the goods vehicle kilometers data from 2001 to 2018 to a
 A blog post is avaible: [medium post](https://medium.com/@jinchaochen/how-did-road-freight-transport-develop-in-the-netherlands-f42502a48047)
 
 # Acknowledgements
-Vehicle kilometres is retrieve from Centraal Bureau voor de Statistiek [goods_vehicles](https://opendata.cbs.nl/statline/portal.html?_la=en&_catalog=CBS&tableId=84651ENG&_theme=1111)
+Vehicle kilometres is retrieve from Centraal Bureau voor de Statistiek [goods_vehicles](https://opendata.cbs.nl/statline/portal.html?_la=en&_catalog=CBS&tableId=84651ENG&_theme=1111)/n
 GDP data is retrieved from World Bank: [gdp] (https://data.worldbank.org/country/netherlands)
 
 
