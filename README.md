@@ -14,7 +14,7 @@ In this notebook, I used the goods vehicle kilometers data to answer the followi
 # File Descriptions
 The repository contains one Jupyter notebook used to perform the exploratory data analysis. <br/>
 
-All the data is located in the subfolder ./data. The other folder ./image contains all the images used in the medium post. 
+All the data is located in the subfolder ./data. The other folder ./image contains the images used in the medium post. 
 
 # Report
 A blog post is avaible: [medium post](https://medium.com/@jinchaochen/how-did-road-freight-transport-develop-in-the-netherlands-f42502a48047)
