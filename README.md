@@ -1,5 +1,11 @@
 # Table of Contents
 
+- [Installation](#installation)
+- [Poject description](#poject-description)
+- [File Descriptions](#file-descriptions)
+- [Report](#report)
+- [Acknowledgements](#acknowledgements)
+
 
 # Installation
 Other than Anaconda distribution of Python, you will need to pip install cbsodata. [PyPI_link](https://pypi.org/project/cbsodata/)
