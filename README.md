@@ -4,7 +4,7 @@
 # Installation
 Other than Anaconda distribution of Python, you will need to pip install cbsodata. It works to retrieves data from the open data interface of Statistics Netherlands (Centraal Bureau voor de Statistiek) with Python. For more information about API, you may refer to: https://pypi.org/project/cbsodata/
 
-# Motivation
+# Poject description
 In this notebook I used the goods vehicle kilometers data from 2001 to 2018 to answer the following questions: 
 
 - What are the types of common goods vehicle? How can we tell them apart using data? 
@@ -12,13 +12,13 @@ In this notebook I used the goods vehicle kilometers data from 2001 to 2018 to a
 - Why is there such high volume of goods vehicle on the motorways nowadays?
 
 # File Descriptions
-
+The repository contains one Jupyter notebook used to perform the exploratory data analysis. All the used data is located in the subfolder ./data, and the other folder ./image contains all the images used in the medium post. 
 
 # Report
 A blog post is avaible: [medium post](https://medium.com/@jinchaochen/how-did-road-freight-transport-develop-in-the-netherlands-f42502a48047)
 
 # Acknowledgements
-Vehicle kilometres is retrieve from Centraal Bureau voor de Statistiek [goods_vehicles](https://opendata.cbs.nl/statline/portal.html?_la=en&_catalog=CBS&tableId=84651ENG&_theme=1111)/n
-GDP data is retrieved from World Bank: [gdp] (https://data.worldbank.org/country/netherlands)
+Vehicle kilometres is retrieve from Centraal Bureau voor de Statistiek [goods_vehicles_link](https://opendata.cbs.nl/statline/portal.html?_la=en&_catalog=CBS&tableId=84651ENG&_theme=1111)<br/>
+GDP data is downloaded from World Bank: [gdp_link](https://data.worldbank.org/country/netherlands)
 
 
