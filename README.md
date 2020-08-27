@@ -2,7 +2,7 @@
 
 
 # Installation
-Other than Anaconda distribution of Python, you will need to pip install cbsodata. It works to retrieves data from the open data interface of Statistics Netherlands (Centraal Bureau voor de Statistiek) with Python. For more information about API, you may refer to: https://pypi.org/project/cbsodata/
+Other than Anaconda distribution of Python, you will need to pip install cbsodata. [PyPI_link](https://pypi.org/project/cbsodata/)
 
 # Poject description
 In this notebook, I used the goods vehicle kilometers data to answer the following questions: 
